@@ -29,14 +29,12 @@ h3 {
 #header {
 	background-color: #66ccff;
 	color: white;
-	padding: 540px;
+	padding: 10px;
 }
 
-/* #banner {
-	background-color: #66ccff;
-	padding: 100px;
-	background-image: url("/AI\ River.png");
-} */
+#banner {
+	padding: 540px;
+}
 
 #content {
 	padding: 10px;
